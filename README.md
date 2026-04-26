@@ -3,11 +3,10 @@ For this project, I created a convolutional neural network using PyTorch to clas
 
 ## Motivation
 
-I built this project to strengthen my understanding of deep learning fundamentals, especially CNNs, image classification, and the PyTorch training workflow.
+I built this project to strengthen my understanding of deep learning fundamentals, image classification, and the PyTorch training workflow.
 
 ## Tech Stack
 
 * Python
 * PyTorch
-* NumPy
-* Matplotlib
+* Tensorboard
